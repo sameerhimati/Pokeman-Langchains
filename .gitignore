@@ -101,6 +101,7 @@ htmlcov
 /examples/movies/movies.db
 *.orig
 CHANGELOG.temp
+.env
 
 examples/*/envs
 
